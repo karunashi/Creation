@@ -2,3 +2,25 @@ button img {
 	width: 200px;
 	height: 160px;
 }
+
+body {
+	font-family: 'Uncial Antiqua', cursive;
+	background: url(../images/stars.gif) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: ;
+}
+
+p {
+	font-size: 24px;
+}
+
+.goal, .number-add {
+	font-size: 40px;
+}
+
+.well { 
+	background-color: rgba(235, 213, 179, 0.55)
+}
