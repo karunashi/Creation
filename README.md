@@ -1,7 +1,7 @@
-# Creation_Game
+# Creation
 
 ## Live Link
- - https://karunashi.github.io/week-4-game/
+ - https://karunashi.github.io/Creation/
  
 ## Description on how to use the app
 When the game initializes, the player is given four buttons. Each button represents a randomized number that's generated at each round. It's up to the player to memorize what each number gives, and try to make it all add up to the goal, which is defined as "Destiny." The game is designed in the theme of Creation, where the player plays an unknown deity, and adds together four different types of basic elements to create a full world.
